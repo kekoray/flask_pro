@@ -21,4 +21,4 @@ CMD ["uwsgi","uwsgi.dev.ini"]
 
 # docker build -t koray/flask:1.0 .
 # docker images
-# docker run -it --name flask2 -p 5000:5000  koray/flask:1.3
+# docker run -it --name flask2 -p 5000:5000  koray/flask:1.0
